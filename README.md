@@ -31,12 +31,10 @@ Quick to modify and experiment with styles
 
 Great for learning CSS basics and inline styling
 
-🔗 Live Preview : https://mani-mc.github.io/inline-css-task-2/
+🚀 Live Preview : https://mani-mc.github.io/inline-css-task-2/
 
 📸 Screenshot
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/cfbd328f-485c-457f-bbf0-6b5ca5f911a0" />
 
 
-📸 Screenshot
-🚀 Live Preview
